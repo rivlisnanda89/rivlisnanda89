@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fernanda Belmont
 - 👀 I’m interested in Hightech, code and languages
 - 🌱 I’m currently learning Computer Science in PUC Minas
-- 💞️ I’m looking to collaborate on html, css codes
-- 📫 How to reach me https://www.linkedin.com/in/fernanda-belmont-rivlis-b1027119a/
+- 💞️ I’m looking to collaborate on html, css codes, c#
+- 📫 How to reach me https://www.linkedin.com/in/fernandabelmontrivlis/
 - rivlisnanda@gmail.com
 
 <!---
