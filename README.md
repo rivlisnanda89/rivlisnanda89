@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Fernanda Rivlis 🇮🇱 🇧🇷</h1>
+<h1 align="center">Hi there! I'm Fernanda Rivlis</h1>
 
 <p align="center">
   🎓 Information Systems student (PUC Minas - 2026)<br>
